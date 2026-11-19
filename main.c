@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello world\n");
+    printf("Bienvenue au TP Git\n");
     return 0;
 }
