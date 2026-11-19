@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Bienvenue au TP Git\n");
+    printf("Bienvenue au TP Git ESME\n");
     return 0;
 }
